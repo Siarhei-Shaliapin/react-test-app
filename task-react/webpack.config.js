@@ -6,7 +6,7 @@ module.exports = {
     context: path.join(__dirname, 'src'),
 
     entry: {
-        shop: './App'
+        index: './App'
     },
 
     output: {
